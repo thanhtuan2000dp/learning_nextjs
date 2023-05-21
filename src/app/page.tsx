@@ -6,6 +6,7 @@ export default function Home() {
             <Link href="/learning-routing">Learning routing</Link>
             <Link href="/pages">Pages</Link>
             <Link href="/pages/caculation">Caculation App</Link>
+            <Link href="/pages/list-render-el">List render elements</Link>
         </div>
     );
 }
