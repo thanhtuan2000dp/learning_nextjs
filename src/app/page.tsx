@@ -7,6 +7,7 @@ export default function Home() {
             <Link href="/pages">Pages</Link>
             <Link href="/pages/caculation">Caculation App</Link>
             <Link href="/pages/list-render-el">List render elements</Link>
+            <Link href="/pages/learn-context-api">Learn Context API</Link>
         </div>
     );
 }
