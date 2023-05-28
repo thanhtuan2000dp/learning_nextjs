@@ -9,6 +9,7 @@ export default function Home() {
             <Link href="/pages/list-render-el">List render elements</Link>
             <Link href="/pages/learn-context-api">Learn Context API</Link>
             <Link href="/pages/learn-custom-hook">Learn Custom Hook</Link>
+            <Link href="/pages/learn-jsx-deep-dive">Learn JSX Deep Dive</Link>
         </div>
     );
 }
