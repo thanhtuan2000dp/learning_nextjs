@@ -12,6 +12,7 @@ export default function Home() {
             <Link href="/pages/learn-HOC">
                 Learn HOC (Higher order Component)
             </Link>
+            <Link href="/pages/learn-jsx-deep-dive">Learn JSX Deep Dive</Link>
         </div>
     );
 }
